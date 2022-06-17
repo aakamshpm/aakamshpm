@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/6620596/screenshots/14792345/media/af61fa935b055891cb800a9e41ebb747.gif)
+
 <h1 align="center">Hi 👋, I'm Aakamsh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakmsh&label=Profile%20views&color=0e75b6&style=flat" alt="aakmsh" /> </p>
 
