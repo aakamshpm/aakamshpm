@@ -6,11 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **aakamshpm@gmail.com**
-
-- ⚡ Fun fact **I'm Complicated**
+ReactJS, CSS, TailwindCSS, RapidAPI, Axios
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
