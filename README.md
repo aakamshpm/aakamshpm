@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-ReactJS, CSS, TailwindCSS, RapidAPI, Axios
+ReactJS, Express JS, MongoDB, ASP.NET, DJANGO
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
